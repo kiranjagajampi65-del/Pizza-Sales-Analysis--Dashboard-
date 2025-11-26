@@ -1,3 +1,3 @@
 # Pizza Sales Analysis -Dashboard-
 
-sales anaylisis about sales 
+sales anyalisis about sales 
